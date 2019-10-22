@@ -2,8 +2,6 @@
 Activité : gestion des Contacts
 */
 
-// TODO : complétez le programme
-
 var contacts = [];
 
 class Contact {
